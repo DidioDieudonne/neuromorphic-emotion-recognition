@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### Quick Test
 ```python
-from snn_modelV import create_sew_resnet18, test_sew_resnet
+from snn_model import create_sew_resnet18, test_sew_resnet
 
 # Test model creation and functionality
 success = test_sew_resnet()
