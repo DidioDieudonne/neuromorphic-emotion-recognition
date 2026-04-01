@@ -24,7 +24,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-
+data/
 /models
 /sew_resnet18_results
