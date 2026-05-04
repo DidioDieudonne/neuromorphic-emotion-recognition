@@ -82,3 +82,36 @@ The implementation provides comprehensive comparison metrics:
 - **Energy Efficiency**: Power consumption analysis (if monitoring enabled)
 - **Training Dynamics**: Loss/accuracy curves and convergence analysis
 - **Confusion Matrices**: Per-class performance visualization
+
+
+
+
+git config --global user.name "DidioDieudonne"
+git config --global user.email "dieudobyaombemw@gmail.com"
+
+
+
+Dbm@viet9971
+
+
+pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY "/usr/local/Visual_Paradigm_CE_18.0/bin/Visual_Paradigm"
+
+
+
+
+Spécialisation "DSA In Python + Top 130 Leetcode Problems for MAANG"
+
+
+Madame, Monsieur,
+
+Je vous adresse ma candidature pour le sujet de thèse intitulé «Quantification de l’incertitude prédictive, 
+fondée sur la théorie de l’évidence, appliquée à l’estimation des traits de vie des poissons à partir 
+d’images d’otolithes 3D ».
+
+Vous trouverez en pièce jointe un fichier PDF unique contenant mon CV, ma lettre de motivation ainsi que mes relevés de notes.
+
+Je reste à votre disposition pour toute information complémentaire.
+
+Cordialement,
+Dieudonné M. Byaombe
+
